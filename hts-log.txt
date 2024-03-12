@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 26 Feb 2024 19:41:31 at https://ikwhat.com/repository-016/thara/index-6.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ikwhat.com/repository-016/thara/index-6.html -O1 "C:\My Web Sites\thara service" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:41:52	Error: 	"Not Found" (404) at link https://ikwhat.com/repository-016/thara/services-details.html (from https://ikwhat.com/repository-016/thara/index-6.html)
+19:41:52	Error: 	"Not Found" (404) at link https://ikwhat.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js (from https://ikwhat.com/repository-016/thara/index-6.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 seconds : 80 links scanned, 77 files written (6328882 bytes overall) [6208885 bytes received at 295661 bytes/sec], 178948 bytes transferred using HTTP compression in 12 files, ratio 20%, 26.6 requests per connection
+(2 errors, 0 warnings, 0 messages)
